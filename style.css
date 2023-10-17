@@ -1,0 +1,22 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0px;
+    background-color: #0E153A;
+    
+}
+body,html{
+    background-color: #0E153A;
+}
+.cards{
+    height: 200px;
+    width: 350px;
+    background-color: aliceblue;
+    margin: 10px;
+}
+.wrapper{
+    height: 100vh;
+    width: 100vw;
+    display: flex;
+    flex-wrap: wrap;
+}
